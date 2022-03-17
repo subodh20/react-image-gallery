@@ -1,3 +1,4 @@
+In this project i have tried to render images that is coming from remote API PIXABAY. For the designing of this single page web app i have used Tailwind css. By making this application i have learn use of hooks(useState, useEffect) for storing the state and making remote call.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
